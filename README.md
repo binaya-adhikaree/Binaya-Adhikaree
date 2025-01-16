@@ -56,3 +56,5 @@
   ![snake gif](https://github.com/binaya-adhikaree/binaya-adhikaree/blob/output/github-snake-dark.svg)
 
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
