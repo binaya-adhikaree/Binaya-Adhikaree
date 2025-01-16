@@ -1,6 +1,5 @@
-<h2 align="left">Hi, I'm Binaya Adhikari, a full-stack developer with a focus on React.js, Next.js, Node.js, and MongoDB. I love building applications that solve real problems and learning new tech, including ethical hacking. I enjoy breaking down complex ideas, sharing my progress, and continuously growing as a developer.</h2>
-
-###
+<h2>Hii Binaya here</h2>
+![snake gif](https://github.com/binaya-adhikaree/binaya-adhikaree/blob/output/github-snake-dark.svg)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=binaya-adhikaree&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -55,5 +54,4 @@
 <br clear="both">
 
 
-![snake gif](https://github.com/binaya-adhikaree/binaya-adhikaree/blob/output/github-snake-dark.svg)
 
