@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media3.giphy.com/media/fZdzEHC8sMC0E/200.webp?cid=790b761113ocbjjo9ygmo2b9d0b73gpgr1sjm0vd1z3xgybc&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 
 ###
 
@@ -48,9 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
-
-###
-
 
 
 ###
