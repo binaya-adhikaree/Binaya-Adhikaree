@@ -1,4 +1,6 @@
-portfolio : https://binaya-adhikaree.netlify.app/
+
+
+<a href="https://binaya-adhikaree.netlify.app/">portfolio </a>
 
 
 <div align="center">
